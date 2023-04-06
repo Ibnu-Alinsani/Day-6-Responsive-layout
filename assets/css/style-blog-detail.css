@@ -284,7 +284,11 @@ i {
         grid-template-columns: 1fr;
         justify-items: center;
     }
-
+    
+    .first-column .hero img {
+        width: 100%;
+    }
+    
     .detail {
         margin-left: 10px;
         justify-content: center;
