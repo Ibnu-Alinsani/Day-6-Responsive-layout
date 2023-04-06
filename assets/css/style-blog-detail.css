@@ -143,6 +143,10 @@ nav {
     justify-self: start;
 }
 
+h4 {
+    font-weight: lighter;
+}
+
 i {
     font-size: 1.3rem;
     margin-right: 10px;
