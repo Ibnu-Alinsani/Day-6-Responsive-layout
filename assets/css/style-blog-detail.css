@@ -300,6 +300,7 @@ i {
 
     .second-column p {
         text-indent: 0;
+        text-align: start;
     }
 
     .technoUse {
